@@ -49,6 +49,8 @@ h1{
   margin: 5%;
   text-align: left;
   width: 90%;
+  color:rgb(226, 226, 226);
+  
 }
 
 a{
@@ -57,7 +59,7 @@ a{
   text-decoration: underline;
   text-decoration-thickness: 3px;
   text-decoration-color: rgb(212, 24, 24);
-  color:rgb(226, 226, 226);
+ 
 }
 
 h6{
